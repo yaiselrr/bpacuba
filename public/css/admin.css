@@ -1,0 +1,8 @@
+.error-container .error{
+    color: red;
+    font-size: small;
+}
+.required{
+    color: red;
+    font-size: small;
+}
